@@ -450,18 +450,18 @@
 .sec4_shuhua .textbox .text,
 .sec4_shuhua .textbox .more{
     font-weight: 600;
-    font-size: 48px;
+    font-size: 38px;
     color: #fff;
 }
 
 .sec4_shuhua .textbox .more{
-    width: 450px;
-    height: 150px;
+    width: 350px;
+    height: 100px;
 
     margin-top: 52px;
     border: 1px solid #fff;
     text-align: center;
-    line-height: 150px;
+    line-height: 100px;
 
     transition: 0.3s;
 }
@@ -492,6 +492,7 @@
 
     line-height: 60px;
     border-bottom: 1px solid #d9d9d9;
+    cursor: pointer;
 }
 
 .sec5_news .sec5_news_container .covernat_news .news:first-child{
@@ -539,8 +540,8 @@
 }
 
 .sec5_news .sec5_news_container .newopen .newopen_contaner .open_textbox .btn:hover{
-    background-color: #222;
-    color: #d9d9d9;
+    background-color: rgba(255, 255, 255, 0.8);
+    color: #2e2e2e;
 }
 
 /* --------------------------------------- */
